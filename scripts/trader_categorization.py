@@ -1,9 +1,7 @@
 from sklearn.cluster import KMeans
 import pandas as pd
 import logging
-from scripts.utils import configure_logging
 
-configure_logging()
 
 def categorize_traders(df, num_clusters=5):
     logging.info("Starting trader categorization...")

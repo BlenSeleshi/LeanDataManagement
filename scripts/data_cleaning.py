@@ -1,8 +1,6 @@
 import pandas as pd
 import logging
-from scripts.utils import configure_logging
 
-configure_logging()
 
 def clean_import_data(file_path):
     logging.info("Loading dataset...")

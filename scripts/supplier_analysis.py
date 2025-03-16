@@ -1,9 +1,7 @@
 import spacy
 import pandas as pd
 import logging
-from scripts.utils import configure_logging
 
-configure_logging()
 nlp = spacy.load("en_core_web_sm")
 
 def identify_suppliers(df):
