@@ -1,7 +1,3 @@
-Here's a detailed **README** content for your project. You can copy-paste this into your `README.md` file.
-
----
-
 # **Ethiopian Import Data Analysis - Project**
 
 This project aims to analyze Ethiopian import data (HS Code 3905) for a pilot project targeting a job in the chemical imports, freight forwarding, and logistics business. The project focuses on using AI techniques such as Natural Language Processing (NLP), clustering, and trend analysis to uncover insights related to items, traders, and suppliers.
@@ -205,19 +201,3 @@ Once the setup is complete, you can use the Jupyter notebooks to analyze the dat
 
 3. **Run item categorization and supplier identification**:
    Open the **`03_item_and_supplier_analysis.ipynb`** notebook.
-
----
-
-## **Contributing**
-
-Feel free to submit issues and pull requests for improvements or bug fixes. Contributions are welcome!
-
----
-
-## **License**
-
-This project is licensed under the MIT License.
-
----
-
-Let me know if you need further modifications or clarifications!
