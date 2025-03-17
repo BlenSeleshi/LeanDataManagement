@@ -146,7 +146,7 @@ Item categorization is achieved using **Natural Language Processing (NLP)** and 
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/ethiopian-import-data-analysis.git
+git clone https://github.com/BlenSeleshi/LeanDataManagement.git
 cd ethiopian-import-data-analysis
 ```
 
